@@ -1,5 +1,5 @@
 # screams-application
 
-It is a prototype of twitter developed using node.js and Firebase
-Has all the features: like, comment, post, profile page, newsfeed.
-The main focus is on the security, used JSON token for user authentication
+I developed a prototype of Twitter using node.js and Google Firebase as database.
+It has all the features: like, comment, post, profile page, newsfeed.
+The main focus is on the security, used JSON token for user authentication.
